@@ -203,22 +203,8 @@ footer a:hover {
     color:blue;
 }
 
-.ARMA {
-    background: red;
-    width:fit-content;
-    color: black;
-}
-
-.ARMA a:hover {
-    color:blue;
-}
-
 #me {
     color: skyblue;
     width:fit-content;
 }
 
-.red {
-    color: black;
-    background: red;
-}
